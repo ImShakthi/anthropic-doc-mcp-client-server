@@ -48,6 +48,12 @@ uv pip install -e .
 uv run main.py
 ```
 
+5. To run MCP inspector:
+
+```bash
+uv run mcp dev mcp_server.py
+```
+
 #### Option 2: Setup without uv
 
 1. Create and activate a virtual environment:
